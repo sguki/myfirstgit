@@ -17,4 +17,4 @@
 //해결 방법 :git pull origin main
 //입력후 다시 git add
 
-//second commit 시도
+//second commit 시도 재도전

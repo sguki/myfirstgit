@@ -26,9 +26,6 @@
 //그래서 네번째 푸시는 바로 main으로 도전
 
 //네번째 푸시 바로 성공
-<<<<<<< HEAD
-//다섯번째 도전은 새로운 brach를 생성해서 거기에 푸쉬
-=======
 //다섯번째 도전은 새로운 brach를 생성해서 거기에 푸쉬
 //branch를 여러개 쓰는 이유는 팀원들이 각자의 브랜치에서 동시에 작업을 하기 위함
 
@@ -38,9 +35,15 @@
 
 //여섯번째 도전은 master2의 커밋을 default branch인 main에 merge 하는 것
 //다시 main 브랜치로 돌아간후 = git checkout main
-//git branch -D master2
+//git merge master2를 입력해 합병
+//git branch -D master2 를 사용해 합병한 브랜치 삭제
 
 //main 브랜치로 돌아오는도중 error: Your local changes to the following files would be overwritten by checkout: 가 발생
 //이동하기 전 작업하고 있던 브랜치에 변경사항을 제대로 커밋하지 않아 발생하는 오류이다
 //해결 방법은 해당 브랜치를 commit 하거나 stash(임시저장)한다.
->>>>>>> master1
+
+
+//git merge master2를 입력해 합병
+//git branch -D master2 를 사용해 합병한 브랜치 삭제
+//해보니 알게된건 merge를 해서 붙인 부분은 붙여넣은 곳에서 수정이 반영이 안된다.
+//overwrite를 하면 해결

@@ -15,6 +15,8 @@
 //첫 커밋에 git push origin master 이후 에러 발생
 //에러 원인: 로컬에 readme 파일이 없는데 원격 저장소에만 있을때 생긴다
 //해결 방법 :git pull origin main
-//입력후 다시 git add
+//입력후 다시 git add 그 다음 git push origin main(어디는 master로 하라하고 어디는 main으로 하라하는데 나는 main으로 해야만 커밋이 된다)
+//이유가 뭘까?
 
 //second commit 시도 재도전
+//git push origin main으로 세번째 도전

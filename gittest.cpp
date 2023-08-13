@@ -47,3 +47,11 @@
 //git branch -D master2 를 사용해 합병한 브랜치 삭제
 //해보니 알게된건 merge를 해서 붙인 부분은 붙여넣은 곳에서 수정이 반영이 안된다.
 //overwrite를 하면 해결
+
+
+//패치 이후 branch 변경시 checkout 대신 switch를 사용한다
+
+//다음 알아야 할 것 
+//git restore의 기능은?
+//git switch의 -c -b 는? 
+//fork clone remote pull request?

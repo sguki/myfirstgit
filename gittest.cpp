@@ -20,3 +20,7 @@
 
 //second commit 시도 재도전
 //git push origin main으로 세번째 도전
+
+//git push 할때 master vs main
+//이유는 내 repository가 main이 default로 되어 있는데 master로 푸시를 했기때문에 안됐던 것
+//그래서 네번째 푸시는 바로 main으로 도전

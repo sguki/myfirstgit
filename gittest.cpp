@@ -5,3 +5,5 @@
 //git에 add . 을 하면 전부 올린다는 것
 //git 에 gittest.cpp만 올리고 싶다면 git add gittest.cpp 를 사용
 //conflict 방지로 하나하나 올리는게 낫다고 함
+//git status 로 상태를 알수 있다. 
+//git commit -m "first commit" 으로 히스토리를 만들어준다 

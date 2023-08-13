@@ -55,3 +55,4 @@
 //git restore의 기능은?
 //git switch의 -c -b 는? 
 //fork clone remote pull request?
+//branch 를 생성했을때 git branch를 쳐보면 origin/브랜치명 이 같이 생성되는 이유? 그리고 브랜치 삭제시 이건 왜 않없어지는지?

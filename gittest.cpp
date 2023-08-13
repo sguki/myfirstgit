@@ -24,3 +24,6 @@
 //git push 할때 master vs main
 //이유는 내 repository가 main이 default로 되어 있는데 master로 푸시를 했기때문에 안됐던 것
 //그래서 네번째 푸시는 바로 main으로 도전
+
+//네번째 푸시 바로 성공
+//다섯번째 도전은 새로운 brach를 생성해서 거기에 푸쉬
